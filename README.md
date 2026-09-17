@@ -11,6 +11,9 @@ invoices → reconciliation → contract profitability.
 
 - **[docs/PLAN.md](docs/PLAN.md)** — full scope, architecture, data model,
   phased delivery plan, and backend options. Start here.
+- **[docs/UI-PLAN.md](docs/UI-PLAN.md)** — in-depth Phase 0 UI MVP plan:
+  tech stack, project structure, design system, routing, and a
+  screen-by-screen spec.
 
 ## Roadmap (see PLAN.md for detail)
 
